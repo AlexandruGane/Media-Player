@@ -1,0 +1,16 @@
+D:\TEST C#\MyAplication\MyAplication\bin\Debug\MyAplication.exe.config
+D:\TEST C#\MyAplication\MyAplication\bin\Debug\MyAplication.exe
+D:\TEST C#\MyAplication\MyAplication\bin\Debug\MyAplication.pdb
+D:\TEST C#\MyAplication\MyAplication\bin\Debug\Interop.WMPLib.dll
+D:\TEST C#\MyAplication\MyAplication\bin\Debug\AxInterop.WMPLib.dll
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.csproj.AssemblyReference.cache
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.csproj.SuggestedBindingRedirects.cache
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\Interop.WMPLib.dll
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\AxInterop.WMPLib.dll
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.csproj.ResolveComReference.cache
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.MusicPlayerApp.resources
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.Properties.Resources.resources
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.csproj.GenerateResource.cache
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.csproj.CoreCompileInputs.cache
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.exe
+D:\TEST C#\MyAplication\MyAplication\obj\Debug\MyAplication.pdb
